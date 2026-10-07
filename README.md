@@ -1,5 +1,7 @@
 # CX in the age of agents
 
+This manual now lives at [mindmelding/agentic-cx](https://github.com/mindmelding/agentic-cx). Edit it there.
+
 An operating manual for customer experience at a company whose product does work on a customer's behalf. Written to be adopted by a new company as it stands, and adapted to the tools that company already runs.
 
 The responsibilities below are the job. This page is the position they sit on. The day is four skills: [open](skills/open/SKILL.md) when you start, [floor](skills/floor/SKILL.md) and [triage](skills/triage/SKILL.md) while the work is happening, [close](skills/close/SKILL.md) when you stop. The schedule is [`routines.md`](routines.md).
